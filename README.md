@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonu2252. And my name is Abhishek Kumar Chaudhary.
 - 👀 I’m interested in designing Machine Learning Algorithm.
 - 🌱 I’m currently learning about image data anlysis.
-- 💞️ I’m looking to collaborate on different YOLO problem.
+- 💞️ I’m looking to collaborate on different Natural Language Processing Problem.
 - 📫 You could mail me on my mailing Address: cabhishek690@gmail.com and contact me on my phone: +977 9860113813
 
 <!---
