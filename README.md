@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonu2252. And my name is Abhishek Kumar Chaudhary.
+- 👋 Hi, I’m @Abhishek. And my name is Abhishek Kumar Chaudhary.
 - 👀 I’m interested in designing Machine Learning Algorithm.
 - 🌱 I’m currently learning about image data anlysis.
 - 💞️ I’m looking to collaborate on different Natural Language Processing Problem.
