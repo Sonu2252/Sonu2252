@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhishek. And my name is Abhishek Kumar Chaudhary.
-- 👀 I’m interested in designing Machine Learning Algorithm.
-- 🌱 I’m currently working on text to video analysis using Stable Diffusion model.
-- 💞️ I’m looking to collaborate on different Natural Language Processing Problem.
+- I’m a passionate Full Stack Java Developer with over six years of experience building scalable and efficient applications.
+- I specialize in Java/J2EE, Spring Boot, and Angular, with expertise in microservices architecture and cloud platforms like AWS. 
+- Beyond development, I have a strong background in machine learning and multimodal data analysis, with published research in AI and GNNs.
+- I thrive on solving complex problems, staying updated with new technologies, and creating impactful solutions.
 - 📫 You could mail me on my mailing Address: cabhishek690@gmail.com and contact me on my phone: 8162917123
 
 <!---
